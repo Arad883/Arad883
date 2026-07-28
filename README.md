@@ -4,7 +4,7 @@
 \forall \ code \ \exists \ \text{vulnerability} \implies \text{Let's fix it together!}
 ```
 
-### 👋 Hi there, I'm [Your Name/Username]
+### 👋 Hi there, I'm Arad!
 
 I'm a passionate **Cybersecurity Developer** who believes that the best defense is built on a strong foundation of mathematics and clean code. I thrive at the intersection of complex algorithms, high-performance computing, and digital security.
 
